@@ -1,0 +1,302 @@
+#page 1#
+               .-~~~~~~~~~-._       _.-~~~~~~~~~-.
+            __.'              ~.   .~              `.__
+          .'//                  \./                  \\`.
+        .'//                     |                     \\`.
+      .'// .-~"""""""~~~~-._     |     _,-~~~~"""""""~-. \\`.
+    .'//.-"                 `-.  |  .-'                 "-.\\`.
+  .'//______.============-..   \ | /   ..-============.______\\`.
+.'______________________________\|/______________________________`.
+
+Press A to start
+#choices#
+2
+#endpage#
+
+#page 2#
+You get home tired from work have a glass of wine and finally, go to sleep late
+at night, after a few minutes, you suddenly wake up in the middle of nowhere,
+you then:
+(A) - Look for help
+(B) - Look around to try to understand what's going on
+(-) - Sit and wait
+#choices#
+3
+4
+5
+#endpage#
+
+#page 3#
+After a few minutes of walking without seeing not a living creature, you find
+yourself in front of an old mansion.
+what do you do? 
+(A) - Get inside
+(B) - Go back to where you came from
+(-) - Look around
+#choices#
+6
+4
+7
+#endpage#
+
+#page 4#
+You are in a creepy-looking forest, the silence is really uncomfortable,
+and it is cold and dark. You can't see much apart from the outline of what
+appears to be a house in the distance.
+what will you do?
+(A) - Go towards the house
+(B) - Sit and wait
+(-) - Look for some food
+#choices#
+3
+5
+8
+#endpage#
+
+#page 5#
+You sit for a while, it is cold and dark, you few annoyed, and nothing happens at all.
+will you:
+(A) - Look for help
+(B) - Look for food
+(-) - Try to sleep
+#choices#
+3
+8
+9
+#endpage#
+
+#page 6#
+You are in the entrance hall, it is a very old mansion, the moment you enter
+it you hear a voice in your head that says:
+"WELCOME TO MY MANSION I HOPE YOU ENJOY YOUR LONG STAY!! HUAHUAHUA!!!"
+There is a picture of an old man on the wall and a vase underneath.
+What will you do?
+(A) - Look in the vase
+(B) - Go back to where you came from
+(-) - Look at the picture
+(+) - Go to the next room
+#choices#
+12
+13
+14
+15 
+#endpage#
+
+#page 7#
+The mansion is very old  with no windows the only way in seems to be the front
+entrance, the forest goes deep behind it.
+will you:
+(A) - Get inside
+(B) - Go back to where you came from
+#choices#
+6
+4 
+#endpage#
+
+#page 8#
+You look around the floor and find what seems to be a mushroom.
+will you eat it?
+(A) - Yes
+(B) - No
+#choices#
+10
+11
+#endpage#
+
+#page 9#
+You wake up in your bed, and you have no idea what just happened, your room is dark
+and cold and the window is open.
+#choices# 
+#endpage#
+
+#page 10#
+You feel funny and everything seems to be a lot bigger, you can't stop
+laughing and you don't know why. After a few minutes, you are back to normal.
+will you:
+(A) - Sit and wait
+(B) - Try to get some sleep
+(-) - Look for help
+#choices#
+5
+9
+3
+#endpage#
+
+#page 11#
+You throw the mushroom away.
+will you:
+(A) - Sit and wait
+(B) - Try to get some sleep
+(-) - Look for help
+#choices#
+5
+9
+2
+#endpage#
+
+#page 12#
+It is empty.
+will you:
+(A) - Go back to where you came from
+(B) - Look at the picture
+(-) - Go to the next room
+#choices#
+13
+14
+15 
+#endpage#
+
+#page 13#
+For some strange reason, you can't get back, no matter how hard you try you can't
+get passed the entrance.
+You then:
+(A) - Look at the picture
+(B) - Go to the next room
+#choices#
+14
+15
+#endpage#
+
+#page 14#
+This is the picture of an old man wearing a white gown, he is in a forest just
+like the one outside behind one of the trees is what seems to be an old woman
+pointing a staff at the man.
+there is the inscription:
+" Eternal life is not just for Gods! "
+will you:
+(A) - Go to the next room
+(B) - Look behind the picture
+#choices#
+15
+16
+#endpage#
+
+#page 15#
+This is a large empty room in there is a door in front of you and a desk the ceiling
+is really high and it smells death all over the place.
+will you:
+(A) - Go back to the Hall
+(B) - Check on the desk 
+(-) - Check the door
+#choices#
+17
+18
+19
+#endpage#
+
+#page 16#
+You find a blood stain behind the picture
+you then:
+(A) - Go to the next room
+(B) - Try to go out of the mansion
+#choices#
+15
+13
+#endpage#
+
+#page 17#
+You are in the entrance hall.
+There is a picture of an old man on the wall and a vase underneath.
+What will you do?
+(A) - Look in the vase
+(B) - Go back to where you came from
+(-) - Look at the picture
+#choices#
+12
+15
+14 
+#endpage#
+
+#page 18#
+The Desk is filthy, there are lots of dead mice on it and a drawer.
+will you:
+(A) - Pick one of the mice up.
+(B) - Open the drawer.
+#choices#
+9
+20 
+#endpage#
+
+#page 19#
+The door is unlocked will you open it?
+(A) - Yes
+(B) - No
+#choices#
+21
+15
+#endpage#
+
+#page 20#
+The drawer is unlocked
+Open it?
+(A) - Yes
+(B) - No
+#choices#
+23
+24 
+#endpage#
+
+#page 21#
+A Horrible smell comes out immediately, the man from the picture in the hall
+comes out, he seems to be dead but he stands up and comes in
+your direction.
+will you:
+(A) - Run back to the Hall
+(B) - Fight him
+(-) - Talk to him
+#choices#
+17
+22
+25 
+#endpage#
+
+#page 22#
+He is in front of you, what a horrible sight but you can't die just yet
+Will you:
+(A) - Throw the desk on him
+(B) - Punch him
+#choices#
+26
+27 
+#endpage#
+
+#page 23#
+you open the drawer and find a potion inside.
+what will you do?
+(A) - Drink it
+(B) - Leave it
+#choices#
+24
+15 
+#endpage#
+
+#page 24#
+You wake up in your room, it is early in the morning, it was all a dream!!
+#choices# 
+#endpage#
+
+#page 25#
+The man comes to bite you.
+will you:
+(A) - Fight him
+(B) - Let him do it
+#choices#
+22
+9
+#endpage#
+
+#page 26#
+You throw the desk at the man with all the mice on it, he gets squashed
+under it, a potion falls out of his pocket:
+will you
+(A) - Drink it
+(B) - Leave it
+#choices#
+24
+9
+#endpage#
+
+#page 27#
+The man bites You!, you wake up in your room, and your cat is biting you
+#choices#
+#endpage#
